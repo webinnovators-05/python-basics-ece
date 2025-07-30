@@ -1,1 +1,1 @@
-print=pavi
+print("pavi")
